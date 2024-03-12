@@ -1,0 +1,7 @@
+{
+  "name": "RubyFrontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
